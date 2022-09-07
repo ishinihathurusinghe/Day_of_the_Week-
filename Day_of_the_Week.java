@@ -1,4 +1,4 @@
-import java.awt.*                                               ;
+import java.awt.*                                                ;
 import java.applet.*; 
 import java.awt.event.*;
 public class Day_of_the_Week extends Applet implements ActionListener
